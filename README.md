@@ -1,3 +1,4 @@
+
 Nombre del Proyecto:  
 "IA para la Generación de Material Educativo Automatizado"
 
@@ -39,3 +40,20 @@ Recursos Necesarios:
 - Integración en Plataformas Educativas: Desarrollar interfaces de usuario que permitan a los docentes y estudiantes interactuar fácilmente con el sistema.
 - Pruebas y Ajustes: Realizar pruebas piloto para asegurar la calidad y efectividad de los prompts generados, ajustando el modelo según sea necesario.
 
+Objetivos del Proyecto:
+
+Objetivo General:
+
+Desarrollar un sistema automatizado utilizando Inteligencia Artificial para la generación de material educativo, incluyendo preguntas de evaluación, casos de estudio y asistencia en redacción, que optimice el proceso de enseñanza-aprendizaje y reduzca la carga de trabajo de los docentes.
+
+Objetivos Específicos:
+
+1. Implementar un modelo de procesamiento de lenguaje natural (NLP) que sea capaz de generar preguntas de evaluación sobre diversos temas académicos, personalizadas según el nivel de dificultad y el tipo de evaluación requerido.
+
+2. Desarrollar un sistema de generación de casos de estudio que permita crear escenarios educativos detallados, incluyendo problemas a resolver y posibles soluciones, adaptados a diferentes áreas del conocimiento.
+
+3. Integrar un asistente de redacción que ofrezca apoyo a los estudiantes en la estructuración y desarrollo de trabajos académicos, facilitando la producción de contenido coherente y bien fundamentado.
+
+4. Evaluar la calidad y efectividad del material generado por la IA a través de pruebas piloto, ajustando los algoritmos según el feedback recibido por docentes y estudiantes.
+
+5. Diseñar una interfaz de usuario amigable que permita a los docentes y estudiantes interactuar fácilmente con las funcionalidades del sistema, asegurando una adopción efectiva y generalizada en entornos educativos.
