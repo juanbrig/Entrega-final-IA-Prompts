@@ -1,7 +1,3 @@
-¡Perfecto! Aquí tienes el contenido completo del proyecto hasta ahora, incluyendo la introducción, los objetivos y la metodología:
-
----
-
 **Nombre del Proyecto:**  
 "IA para la Generación de Material Educativo Automatizado"
 
